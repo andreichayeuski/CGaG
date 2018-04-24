@@ -1,0 +1,15 @@
+﻿D:\Progs\Visual Studio 2017\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (lab2_daa.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  LibPlanets.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+d:\документы\университет\4 семестр\кгиг\лабораторные\lab4\laba4\lab2_daa\libplanets.cpp(104): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\документы\университет\4 семестр\кгиг\лабораторные\lab4\laba4\lab2_daa\libplanets.cpp(105): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\документы\университет\4 семестр\кгиг\лабораторные\lab4\laba4\lab2_daa\libplanets.cpp(106): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\документы\университет\4 семестр\кгиг\лабораторные\lab4\laba4\lab2_daa\libplanets.cpp(107): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\документы\университет\4 семестр\кгиг\лабораторные\lab4\laba4\lab2_daa\libplanets.cpp(108): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\документы\университет\4 семестр\кгиг\лабораторные\lab4\laba4\lab2_daa\libplanets.cpp(109): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\документы\университет\4 семестр\кгиг\лабораторные\lab4\laba4\lab2_daa\libplanets.cpp(110): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\документы\университет\4 семестр\кгиг\лабораторные\lab4\laba4\lab2_daa\libplanets.cpp(187): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\документы\университет\4 семестр\кгиг\лабораторные\lab4\laba4\lab2_daa\libplanets.cpp(196): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\документы\университет\4 семестр\кгиг\лабораторные\lab4\laba4\lab2_daa\libplanets.cpp(202): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\документы\университет\4 семестр\кгиг\лабораторные\lab4\laba4\lab2_daa\libplanets.cpp(208): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  lab2_daa.vcxproj -> D:\Документы\Университет\4 семестр\КГиГ\Лабораторные\Lab4\laba4\Debug\laba4.exe
