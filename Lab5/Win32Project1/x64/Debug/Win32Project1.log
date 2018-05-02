@@ -1,0 +1,12 @@
+﻿Сборка начата 10.05.2017 17:05:03.
+     1>Проект "D:\УЧЕБА\Второй курс\2 сем\Компьютерная Графика\лаба5\Пирамида\Win32Project1\Win32Project1.vcxproj" в узле 2 (целевые объекты Build).
+     1>Link:
+         D:\Visual Studio 2015\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\УЧЕБА\Второй курс\2 сем\Компьютерная Графика\лаба5\Пирамида\x64\Debug\Win32Project1.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Visual Studio 2015\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\УЧЕБА\Второй курс\2 сем\Компьютерная Графика\лаба5\Пирамида\x64\Debug\Win32Project1.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\УЧЕБА\Второй курс\2 сем\Компьютерная Графика\лаба5\Пирамида\x64\Debug\Win32Project1.lib" /MACHINE:X64 x64\Debug\CMatrix.obj
+         x64\Debug\CPyramid.obj
+         x64\Debug\main.obj
+         Win32Project1.vcxproj -> D:\УЧЕБА\Второй курс\2 сем\Компьютерная Графика\лаба5\Пирамида\x64\Debug\Win32Project1.exe
+     1>Сборка проекта "D:\УЧЕБА\Второй курс\2 сем\Компьютерная Графика\лаба5\Пирамида\Win32Project1\Win32Project1.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:15.73
