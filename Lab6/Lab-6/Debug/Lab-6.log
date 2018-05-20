@@ -1,0 +1,18 @@
+﻿  CMatrix.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  LibGraph.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  LibSurface.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+d:\документы\университет\4 семестр\кгиг\лабораторные\lab6\lab-6\libsurface.cpp(158): warning C4018: <: несоответствие типов со знаком и без знака
+d:\документы\университет\4 семестр\кгиг\лабораторные\lab6\lab-6\libsurface.cpp(161): warning C4018: <: несоответствие типов со знаком и без знака
+d:\документы\университет\4 семестр\кгиг\лабораторные\lab6\lab-6\libsurface.cpp(189): warning C4018: <: несоответствие типов со знаком и без знака
+d:\документы\университет\4 семестр\кгиг\лабораторные\lab6\lab-6\libsurface.cpp(192): warning C4018: <: несоответствие типов со знаком и без знака
+d:\документы\университет\4 семестр\кгиг\лабораторные\lab6\lab-6\libsurface.cpp(212): warning C4101: k: неиспользованная локальная переменная
+d:\документы\университет\4 семестр\кгиг\лабораторные\lab6\lab-6\libsurface.cpp(212): warning C4101: d: неиспользованная локальная переменная
+  Main.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  stdafx.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  Создание кода...
+  Lab-6.vcxproj -> D:\Документы\Университет\4 семестр\КГиГ\Лабораторные\Lab6\Debug\Lab-6.exe
